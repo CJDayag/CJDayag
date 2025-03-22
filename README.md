@@ -20,7 +20,7 @@ I'm a passionate Web Developer specializing in building modern web applications 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdayag&theme=buefy&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cjdayag&theme=buefy&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cjdayag&theme=buefy&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
