@@ -4,7 +4,7 @@ I'm a passionate Web Developer specializing in building modern web applications 
 
 ### 📌 About Me
 
-🏫 Currently in my 4th year of Information Technology. </br>
+🏫 I'm currently in my fourth year pursuing a degree in Information Technology. </br>
 🔭 I’m currently working on [Weather Application](https://github.com/CJDayag/Weather-Application)</br>
 🌱 I’m currently learning **Express.js and Svelte**</br>
 👨‍💻 All of my projects are available at [my portfolio](https://cjdayag-portfolio.netlify.app/)</br>
